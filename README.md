@@ -1,4 +1,6 @@
-<image align = "center" src = "assets/header.jpg">
+<div align = "center">
+    <img src = "assets/header.jpg">
+</div>
 
 <h3 align="center">Unreal Engine developer | Software developer</h3>
 
