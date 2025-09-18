@@ -59,14 +59,6 @@
     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
     </a> 
-    </p>
-
-<h3 align="center">My stats</h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blankbs&show_icons=true&theme=dark&locale=en&layout=compact" alt="blankbs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blankbs&show_icons=true&locale=en" alt="blankbs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blankbs&" alt="blankbs" /></p>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blankbs&label=Profile%20views&color=0e75b6&style=flat" alt="blankbs" /> </p>
